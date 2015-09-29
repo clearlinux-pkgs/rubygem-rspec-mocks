@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rspec-mocks
 Version  : 3.3.2
-Release  : 7
+Release  : 8
 URL      : https://rubygems.org/downloads/rspec-mocks-3.3.2.gem
 Source0  : https://rubygems.org/downloads/rspec-mocks-3.3.2.gem
 Summary  : No detailed summary available
